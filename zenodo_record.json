@@ -1,0 +1,20 @@
+{
+  "status": "published",
+  "published_on": "2026-09-30",
+  "version_doi": "10.5281/zenodo.23073069",
+  "concept_doi": "10.5281/zenodo.23073068",
+  "record_id": 23073069,
+  "concept_id": 23073068,
+  "record_url": "https://zenodo.org/records/23073069",
+  "version": "1.0.0",
+  "license_record": "cc-by-4.0",
+  "code_license": "MIT",
+  "files": [
+    "Padilla-Villanueva_cancellation-aware-tau_2026.pdf",
+    "cancellation_tau_code_v1.0.0.zip"
+  ],
+  "github": "https://github.com/johelpadilla/cancellation-aware-tau",
+  "companion_article": "10.5281/zenodo.23001549",
+  "companion_code": "10.5281/zenodo.23001551",
+  "pdf_prints_this_doi": false
+}

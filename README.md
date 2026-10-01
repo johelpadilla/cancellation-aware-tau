@@ -19,9 +19,11 @@ It does not replace that article and it does not redefine Systemic Tau.
 The code for that article is
 [10.5281/zenodo.23001551](https://doi.org/10.5281/zenodo.23001551).
 
-The Zenodo record for this note is added to this file when the deposit is published.
+Zenodo: [10.5281/zenodo.23073069](https://doi.org/10.5281/zenodo.23073069)
+(concept [10.5281/zenodo.23073068](https://doi.org/10.5281/zenodo.23073068)).
 The PDF archived there is the rendered file in this repository. Its availability
-section names Zenodo and does not yet print this record's DOI.
+section names Zenodo and does not print this record's DOI. LibreOffice on this
+machine is an x86_64 binary, so the PDF was not regenerated after the DOI was reserved.
 
 ## Reproduce
 

@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Please cite the technical note."
+type: software
+title: "Cancellation-aware order coherence: an exact decomposition of absolute concordance change into signed Systemic Tau and a cancellation index"
+version: 1.0.0
+date-released: 2026-09-30
+license: MIT
+repository-code: "https://github.com/johelpadilla/cancellation-aware-tau"
+authors:
+  - family-names: Padilla-Villanueva
+    given-names: Johel
+    orcid: "https://orcid.org/0000-0002-5797-6931"
+    affiliation: "Department of Environmental Health, Graduate School of Public Health, Medical Sciences Campus, University of Puerto Rico"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23073069
+    description: "Version DOI of the note and code archive"
+  - type: doi
+    value: 10.5281/zenodo.23073068
+    description: "Concept DOI"
+preferred-citation:
+  type: article
+  title: "Cancellation-aware order coherence: an exact decomposition of absolute concordance change into signed Systemic Tau and a cancellation index"
+  authors:
+    - family-names: Padilla-Villanueva
+      given-names: Johel
+      orcid: "https://orcid.org/0000-0002-5797-6931"
+  year: 2026
+  doi: 10.5281/zenodo.23073069
+  license: CC-BY-4.0
+  version: 1.0.0
