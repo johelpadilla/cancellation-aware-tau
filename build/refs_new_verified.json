@@ -1,0 +1,6 @@
+{
+  "_note": "References added for this note, verified against the Crossref REST API (api.crossref.org/works/<DOI>) on 2026-09-30; Vovk et al. authors confirmed on the Springer book page (Crossref lists no authors for this book DOI).",
+  "Bartlett1935": {"doi": "10.2307/2342284", "crossref_title": "Some Aspects of the Time-Correlation Problem in Regard to Tests of Significance", "authors": ["Bartlett, M. S."], "journal": "Journal of the Royal Statistical Society", "volume": "98", "issue": "3", "pages": "536-543", "year": 1935},
+  "Leone1961": {"doi": "10.1080/00401706.1961.10489974", "crossref_title": "The Folded Normal Distribution", "authors": ["Leone, F. C.", "Nelson, L. S.", "Nottingham, R. B."], "journal": "Technometrics", "volume": "3", "issue": "4", "pages": "543-550", "year": 1961},
+  "Vovk2005": {"doi": "10.1007/b106715", "crossref_title": "Algorithmic Learning in a Random World", "authors": ["Vovk, V.", "Gammerman, A.", "Shafer, G."], "publisher": "Springer", "year": 2005}
+}

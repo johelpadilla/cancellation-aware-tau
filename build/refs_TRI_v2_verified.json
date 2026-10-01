@@ -1,0 +1,1182 @@
+[
+ {
+  "DOI": "10.1016/S0079-7421(08)60536-8",
+  "type": "article-journal",
+  "page": "109-165",
+  "title": "Catastrophic Interference in Connectionist Networks: The Sequential Learning Problem",
+  "author": [
+   {
+    "given": "Michael",
+    "family": "McCloskey"
+   },
+   {
+    "given": "Neal J.",
+    "family": "Cohen"
+   }
+  ],
+  "container-title": "Psychology of Learning and Motivation",
+  "issued": {
+   "date-parts": [
+    [
+     1989
+    ]
+   ]
+  },
+  "id": "McCloskey1989",
+  "volume": "24"
+ },
+ {
+  "issue": "2",
+  "DOI": "10.1037/0033-295X.97.2.285",
+  "type": "article-journal",
+  "page": "285-308",
+  "title": "Connectionist models of recognition memory: Constraints imposed by learning and forgetting functions.",
+  "volume": "97",
+  "author": [
+   {
+    "given": "Roger",
+    "family": "Ratcliff"
+   }
+  ],
+  "container-title": "Psychological Review",
+  "issued": {
+   "date-parts": [
+    [
+     1990,
+     4
+    ]
+   ]
+  },
+  "id": "Ratcliff1990"
+ },
+ {
+  "issue": "2",
+  "DOI": "10.1016/j.tins.2004.12.003",
+  "type": "article-journal",
+  "page": "73-78",
+  "title": "Memory retention – the synaptic stability versus plasticity dilemma",
+  "volume": "28",
+  "author": [
+   {
+    "given": "Wickliffe C.",
+    "family": "Abraham"
+   },
+   {
+    "given": "Anthony",
+    "family": "Robins"
+   }
+  ],
+  "container-title": "Trends in Neurosciences",
+  "issued": {
+   "date-parts": [
+    [
+     2005,
+     2
+    ]
+   ]
+  },
+  "id": "Abraham2005"
+ },
+ {
+  "issue": "13",
+  "DOI": "10.1073/pnas.1611835114",
+  "type": "article-journal",
+  "page": "3521-3526",
+  "title": "Overcoming catastrophic forgetting in neural networks",
+  "volume": "114",
+  "author": [
+   {
+    "given": "James",
+    "family": "Kirkpatrick"
+   },
+   {
+    "given": "Razvan",
+    "family": "Pascanu"
+   },
+   {
+    "given": "Neil",
+    "family": "Rabinowitz"
+   },
+   {
+    "given": "Joel",
+    "family": "Veness"
+   },
+   {
+    "given": "Guillaume",
+    "family": "Desjardins"
+   },
+   {
+    "given": "Andrei A.",
+    "family": "Rusu"
+   },
+   {
+    "given": "Kieran",
+    "family": "Milan"
+   },
+   {
+    "given": "John",
+    "family": "Quan"
+   },
+   {
+    "given": "Tiago",
+    "family": "Ramalho"
+   },
+   {
+    "given": "Agnieszka",
+    "family": "Grabska-Barwinska"
+   },
+   {
+    "given": "Demis",
+    "family": "Hassabis"
+   },
+   {
+    "given": "Claudia",
+    "family": "Clopath"
+   },
+   {
+    "given": "Dharshan",
+    "family": "Kumaran"
+   },
+   {
+    "given": "Raia",
+    "family": "Hadsell"
+   }
+  ],
+  "container-title": "Proceedings of the National Academy of Sciences",
+  "issued": {
+   "date-parts": [
+    [
+     2017,
+     3,
+     14
+    ]
+   ]
+  },
+  "id": "Kirkpatrick2017"
+ },
+ {
+  "DOI": "10.1016/j.neunet.2019.01.012",
+  "type": "article-journal",
+  "page": "54-71",
+  "title": "Continual lifelong learning with neural networks: A review",
+  "volume": "113",
+  "author": [
+   {
+    "given": "German I.",
+    "family": "Parisi"
+   },
+   {
+    "given": "Ronald",
+    "family": "Kemker"
+   },
+   {
+    "given": "Jose L.",
+    "family": "Part"
+   },
+   {
+    "given": "Christopher",
+    "family": "Kanan"
+   },
+   {
+    "given": "Stefan",
+    "family": "Wermter"
+   }
+  ],
+  "container-title": "Neural Networks",
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     5
+    ]
+   ]
+  },
+  "id": "Parisi2019"
+ },
+ {
+  "issue": "4",
+  "DOI": "10.1145/2523813",
+  "type": "article-journal",
+  "page": "1-37",
+  "title": "A survey on concept drift adaptation",
+  "volume": "46",
+  "author": [
+   {
+    "given": "João",
+    "family": "Gama"
+   },
+   {
+    "given": "Indrė",
+    "family": "Žliobaitė"
+   },
+   {
+    "given": "Albert",
+    "family": "Bifet"
+   },
+   {
+    "given": "Mykola",
+    "family": "Pechenizkiy"
+   },
+   {
+    "given": "Abdelhamid",
+    "family": "Bouchachia"
+   }
+  ],
+  "container-title": "ACM Computing Surveys",
+  "issued": {
+   "date-parts": [
+    [
+     2014,
+     3
+    ]
+   ]
+  },
+  "id": "Gama2014"
+ },
+ {
+  "issue": "8",
+  "DOI": "10.1162/neco.1997.9.8.1735",
+  "type": "article-journal",
+  "page": "1735-1780",
+  "title": "Long Short-Term Memory",
+  "volume": "9",
+  "author": [
+   {
+    "given": "Sepp",
+    "family": "Hochreiter"
+   },
+   {
+    "given": "Jürgen",
+    "family": "Schmidhuber"
+   }
+  ],
+  "container-title": "Neural Computation",
+  "issued": {
+   "date-parts": [
+    [
+     1997,
+     11,
+     1
+    ]
+   ]
+  },
+  "id": "Hochreiter1997"
+ },
+ {
+  "issue": "2",
+  "DOI": "10.1109/72.279181",
+  "type": "article-journal",
+  "page": "157-166",
+  "title": "Learning long-term dependencies with gradient descent is difficult",
+  "volume": "5",
+  "author": [
+   {
+    "given": "Y.",
+    "family": "Bengio"
+   },
+   {
+    "given": "P.",
+    "family": "Simard"
+   },
+   {
+    "given": "P.",
+    "family": "Frasconi"
+   }
+  ],
+  "container-title": "IEEE Transactions on Neural Networks",
+  "issued": {
+   "date-parts": [
+    [
+     1994,
+     3
+    ]
+   ]
+  },
+  "id": "Bengio1994"
+ },
+ {
+  "issue": "2",
+  "DOI": "10.1162/106365602320169811",
+  "type": "article-journal",
+  "page": "99-127",
+  "title": "Evolving Neural Networks through Augmenting Topologies",
+  "volume": "10",
+  "author": [
+   {
+    "given": "Kenneth O.",
+    "family": "Stanley"
+   },
+   {
+    "given": "Risto",
+    "family": "Miikkulainen"
+   }
+  ],
+  "container-title": "Evolutionary Computation",
+  "issued": {
+   "date-parts": [
+    [
+     2002,
+     6
+    ]
+   ]
+  },
+  "id": "Stanley2002"
+ },
+ {
+  "issue": "1",
+  "DOI": "10.1038/s41467-018-04316-3",
+  "type": "article-journal",
+  "title": "Scalable training of artificial neural networks with adaptive sparse connectivity inspired by network science",
+  "volume": "9",
+  "author": [
+   {
+    "given": "Decebal Constantin",
+    "family": "Mocanu"
+   },
+   {
+    "given": "Elena",
+    "family": "Mocanu"
+   },
+   {
+    "given": "Peter",
+    "family": "Stone"
+   },
+   {
+    "given": "Phuong H.",
+    "family": "Nguyen"
+   },
+   {
+    "given": "Madeleine",
+    "family": "Gibescu"
+   },
+   {
+    "given": "Antonio",
+    "family": "Liotta"
+   }
+  ],
+  "container-title": "Nature Communications",
+  "issued": {
+   "date-parts": [
+    [
+     2018,
+     6,
+     19
+    ]
+   ]
+  },
+  "id": "Mocanu2018",
+  "page": "2383"
+ },
+ {
+  "issue": "2",
+  "DOI": "10.1016/j.brainresrev.2008.12.023",
+  "type": "article-journal",
+  "page": "287-305",
+  "title": "Activity-dependent structural plasticity",
+  "volume": "60",
+  "author": [
+   {
+    "given": "Markus",
+    "family": "Butz"
+   },
+   {
+    "given": "Florentin",
+    "family": "Wörgötter"
+   },
+   {
+    "given": "Arjen",
+    "family": "van Ooyen"
+   }
+  ],
+  "container-title": "Brain Research Reviews",
+  "issued": {
+   "date-parts": [
+    [
+     2009,
+     5
+    ]
+   ]
+  },
+  "id": "Butz2009"
+ },
+ {
+  "issue": "6670",
+  "DOI": "10.1038/36103",
+  "type": "article-journal",
+  "page": "892-896",
+  "title": "Activity-dependent scaling of quantal amplitude in neocortical neurons",
+  "volume": "391",
+  "author": [
+   {
+    "given": "Gina G.",
+    "family": "Turrigiano"
+   },
+   {
+    "given": "Kenneth R.",
+    "family": "Leslie"
+   },
+   {
+    "given": "Niraj S.",
+    "family": "Desai"
+   },
+   {
+    "given": "Lana C.",
+    "family": "Rutherford"
+   },
+   {
+    "given": "Sacha B.",
+    "family": "Nelson"
+   }
+  ],
+  "container-title": "Nature",
+  "issued": {
+   "date-parts": [
+    [
+     1998,
+     2
+    ]
+   ]
+  },
+  "id": "Turrigiano1998"
+ },
+ {
+  "issue": "2",
+  "DOI": "10.1038/nrn1327",
+  "type": "article-journal",
+  "page": "97-107",
+  "title": "Homeostatic plasticity in the developing nervous system",
+  "volume": "5",
+  "author": [
+   {
+    "given": "Gina G.",
+    "family": "Turrigiano"
+   },
+   {
+    "given": "Sacha B.",
+    "family": "Nelson"
+   }
+  ],
+  "container-title": "Nature Reviews Neuroscience",
+  "issued": {
+   "date-parts": [
+    [
+     2004,
+     2
+    ]
+   ]
+  },
+  "id": "Turrigiano2004"
+ },
+ {
+  "issue": "3",
+  "DOI": "10.1016/j.cell.2008.10.008",
+  "type": "article-journal",
+  "page": "422-435",
+  "title": "The Self-Tuning Neuron: Synaptic Scaling of Excitatory Synapses",
+  "volume": "135",
+  "author": [
+   {
+    "given": "Gina G.",
+    "family": "Turrigiano"
+   }
+  ],
+  "container-title": "Cell",
+  "issued": {
+   "date-parts": [
+    [
+     2008,
+     10
+    ]
+   ]
+  },
+  "id": "Turrigiano2008"
+ },
+ {
+  "publisher": "Springer Netherlands",
+  "DOI": "10.1007/978-94-015-1320-3",
+  "type": "book",
+  "title": "Design for a Brain",
+  "author": [
+   {
+    "given": "W. Ross",
+    "family": "Ashby"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     1960
+    ]
+   ]
+  },
+  "id": "Ashby1960"
+ },
+ {
+  "issue": "9",
+  "DOI": "10.1016/S0893-6080(97)00011-7",
+  "type": "article-journal",
+  "page": "1659-1671",
+  "title": "Networks of spiking neurons: The third generation of neural network models",
+  "volume": "10",
+  "author": [
+   {
+    "given": "Wolfgang",
+    "family": "Maass"
+   }
+  ],
+  "container-title": "Neural Networks",
+  "issued": {
+   "date-parts": [
+    [
+     1997,
+     12
+    ]
+   ]
+  },
+  "id": "Maass1997"
+ },
+ {
+  "issue": "1",
+  "DOI": "10.1109/MM.2018.112130359",
+  "type": "article-journal",
+  "page": "82-99",
+  "title": "Loihi: A Neuromorphic Manycore Processor with On-Chip Learning",
+  "volume": "38",
+  "author": [
+   {
+    "given": "Mike",
+    "family": "Davies"
+   },
+   {
+    "given": "Narayan",
+    "family": "Srinivasa"
+   },
+   {
+    "given": "Tsung-Han",
+    "family": "Lin"
+   },
+   {
+    "given": "Gautham",
+    "family": "Chinya"
+   },
+   {
+    "given": "Yongqiang",
+    "family": "Cao"
+   },
+   {
+    "given": "Sri Harsha",
+    "family": "Choday"
+   },
+   {
+    "given": "Georgios",
+    "family": "Dimou"
+   },
+   {
+    "given": "Prasad",
+    "family": "Joshi"
+   },
+   {
+    "given": "Nabil",
+    "family": "Imam"
+   },
+   {
+    "given": "Shweta",
+    "family": "Jain"
+   },
+   {
+    "given": "Yuyun",
+    "family": "Liao"
+   },
+   {
+    "given": "Chit-Kwan",
+    "family": "Lin"
+   },
+   {
+    "given": "Andrew",
+    "family": "Lines"
+   },
+   {
+    "given": "Ruokun",
+    "family": "Liu"
+   },
+   {
+    "given": "Deepak",
+    "family": "Mathaikutty"
+   },
+   {
+    "given": "Steven",
+    "family": "McCoy"
+   },
+   {
+    "given": "Arnab",
+    "family": "Paul"
+   },
+   {
+    "given": "Jonathan",
+    "family": "Tse"
+   },
+   {
+    "given": "Guruguhanathan",
+    "family": "Venkataramanan"
+   },
+   {
+    "given": "Yi-Hsin",
+    "family": "Weng"
+   },
+   {
+    "given": "Andreas",
+    "family": "Wild"
+   },
+   {
+    "given": "Yoonseok",
+    "family": "Yang"
+   },
+   {
+    "given": "Hong",
+    "family": "Wang"
+   }
+  ],
+  "container-title": "IEEE Micro",
+  "issued": {
+   "date-parts": [
+    [
+     2018,
+     1
+    ]
+   ]
+  },
+  "id": "Davies2018"
+ },
+ {
+  "publisher": "Springer",
+  "DOI": "10.1007/978-3-642-69689-3",
+  "type": "book",
+  "title": "Chemical Oscillations, Waves, and Turbulence",
+  "author": [
+   {
+    "given": "Yoshiki",
+    "family": "Kuramoto"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     1984
+    ]
+   ]
+  },
+  "id": "Kuramoto1984",
+  "collection-title": "Springer Series in Synergetics"
+ },
+ {
+  "publisher": "Cambridge University Press",
+  "DOI": "10.1017/CBO9780511755743",
+  "type": "book",
+  "title": "Synchronization: A universal concept in nonlinear sciences",
+  "author": [
+   {
+    "given": "Arkady",
+    "family": "Pikovsky"
+   },
+   {
+    "given": "Michael",
+    "family": "Rosenblum"
+   },
+   {
+    "given": "Jürgen",
+    "family": "Kurths"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2001,
+     10,
+     18
+    ]
+   ]
+  },
+  "id": "Pikovsky2001"
+ },
+ {
+  "issue": "17",
+  "DOI": "10.1103/PhysRevLett.88.174102",
+  "type": "article-journal",
+  "title": "Permutation Entropy: A Natural Complexity Measure for Time Series",
+  "volume": "88",
+  "author": [
+   {
+    "given": "Christoph",
+    "family": "Bandt"
+   },
+   {
+    "given": "Bernd",
+    "family": "Pompe"
+   }
+  ],
+  "container-title": "Physical Review Letters",
+  "issued": {
+   "date-parts": [
+    [
+     2002,
+     4,
+     11
+    ]
+   ]
+  },
+  "id": "Bandt2002",
+  "page": "174102"
+ },
+ {
+  "issue": "1-2",
+  "DOI": "10.1093/biomet/30.1-2.81",
+  "type": "article-journal",
+  "page": "81-93",
+  "title": "A new measure of rank correlation",
+  "volume": "30",
+  "author": [
+   {
+    "family": "Kendall",
+    "given": "M. G."
+   }
+  ],
+  "container-title": "Biometrika",
+  "issued": {
+   "date-parts": [
+    [
+     1938,
+     6,
+     1
+    ]
+   ]
+  },
+  "id": "Kendall1938"
+ },
+ {
+  "issue": "3",
+  "DOI": "10.1093/biomet/33.3.239",
+  "type": "article-journal",
+  "page": "239-251",
+  "title": "The treatment of ties in ranking problems",
+  "volume": "33",
+  "author": [
+   {
+    "family": "Kendall",
+    "given": "M. G."
+   }
+  ],
+  "container-title": "Biometrika",
+  "issued": {
+   "date-parts": [
+    [
+     1945
+    ]
+   ]
+  },
+  "id": "Kendall1945"
+ },
+ {
+  "issue": "1-4",
+  "DOI": "10.1016/0167-2789(92)90102-S",
+  "type": "article-journal",
+  "page": "77-94",
+  "title": "Testing for nonlinearity in time series: the method of surrogate data",
+  "volume": "58",
+  "author": [
+   {
+    "given": "James",
+    "family": "Theiler"
+   },
+   {
+    "given": "Stephen",
+    "family": "Eubank"
+   },
+   {
+    "given": "André",
+    "family": "Longtin"
+   },
+   {
+    "given": "Bryan",
+    "family": "Galdrikian"
+   },
+   {
+    "given": "J.",
+    "family": "Doyne Farmer"
+   }
+  ],
+  "container-title": "Physica D: Nonlinear Phenomena",
+  "issued": {
+   "date-parts": [
+    [
+     1992,
+     9
+    ]
+   ]
+  },
+  "id": "Theiler1992"
+ },
+ {
+  "issue": "3-4",
+  "DOI": "10.1016/S0167-2789(00)00043-9",
+  "type": "article-journal",
+  "page": "346-382",
+  "title": "Surrogate time series",
+  "volume": "142",
+  "author": [
+   {
+    "given": "Thomas",
+    "family": "Schreiber"
+   },
+   {
+    "given": "Andreas",
+    "family": "Schmitz"
+   }
+  ],
+  "container-title": "Physica D: Nonlinear Phenomena",
+  "issued": {
+   "date-parts": [
+    [
+     2000,
+     8
+    ]
+   ]
+  },
+  "id": "Schreiber2000"
+ },
+ {
+  "DOI": "10.1016/j.physrep.2018.06.001",
+  "type": "article-journal",
+  "page": "1-60",
+  "title": "Surrogate data for hypothesis testing of physical systems",
+  "volume": "748",
+  "author": [
+   {
+    "given": "Gemma",
+    "family": "Lancaster"
+   },
+   {
+    "given": "Dmytro",
+    "family": "Iatsenko"
+   },
+   {
+    "given": "Aleksandra",
+    "family": "Pidde"
+   },
+   {
+    "given": "Valentina",
+    "family": "Ticcinelli"
+   },
+   {
+    "given": "Aneta",
+    "family": "Stefanovska"
+   }
+  ],
+  "container-title": "Physics Reports",
+  "issued": {
+   "date-parts": [
+    [
+     2018,
+     7
+    ]
+   ]
+  },
+  "id": "Lancaster2018"
+ },
+ {
+  "issue": "7260",
+  "DOI": "10.1038/nature08227",
+  "type": "article-journal",
+  "page": "53-59",
+  "title": "Early-warning signals for critical transitions",
+  "volume": "461",
+  "author": [
+   {
+    "given": "Marten",
+    "family": "Scheffer"
+   },
+   {
+    "given": "Jordi",
+    "family": "Bascompte"
+   },
+   {
+    "given": "William A.",
+    "family": "Brock"
+   },
+   {
+    "given": "Victor",
+    "family": "Brovkin"
+   },
+   {
+    "given": "Stephen R.",
+    "family": "Carpenter"
+   },
+   {
+    "given": "Vasilis",
+    "family": "Dakos"
+   },
+   {
+    "given": "Hermann",
+    "family": "Held"
+   },
+   {
+    "given": "Egbert H.",
+    "family": "van Nes"
+   },
+   {
+    "given": "Max",
+    "family": "Rietkerk"
+   },
+   {
+    "given": "George",
+    "family": "Sugihara"
+   }
+  ],
+  "container-title": "Nature",
+  "issued": {
+   "date-parts": [
+    [
+     2009,
+     9,
+     3
+    ]
+   ]
+  },
+  "id": "Scheffer2009"
+ },
+ {
+  "publisher": "Chapman and Hall/CRC",
+  "DOI": "10.1201/9780429246593",
+  "type": "book",
+  "title": "An Introduction to the Bootstrap",
+  "author": [
+   {
+    "given": "Bradley",
+    "family": "Efron"
+   },
+   {
+    "given": "R.J.",
+    "family": "Tibshirani"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     1994,
+     5,
+     15
+    ]
+   ]
+  },
+  "id": "Efron1994"
+ },
+ {
+  "type": "article",
+  "id": "PV2025Unveiling",
+  "author": [
+   {
+    "family": "Padilla-Villanueva",
+    "given": "Johel"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     9,
+     15
+    ]
+   ]
+  },
+  "DOI": "10.5281/zenodo.17127368",
+  "publisher": "Zenodo",
+  "title": "Unveiling Systemic Tau: Redefining the Fabric of Time, Stability, and Emergent Order Across Complex Chaotic Systems in the Age of Interdisciplinary Discovery",
+  "genre": "Preprint"
+ },
+ {
+  "type": "article",
+  "id": "PV2025Anti",
+  "author": [
+   {
+    "family": "Padilla",
+    "given": "Johel"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     9,
+     23
+    ]
+   ]
+  },
+  "DOI": "10.5281/zenodo.17186886",
+  "publisher": "Zenodo",
+  "title": "Validation of Anti-Synchronization in Chaotic Systems Using Systemic Tau from Padilla-Villanueva (2025)",
+  "genre": "Preprint"
+ },
+ {
+  "type": "article",
+  "id": "PV2026Multiscale",
+  "author": [
+   {
+    "family": "Padilla-Villanueva",
+    "given": "Johel"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     5,
+     14
+    ]
+   ]
+  },
+  "DOI": "10.5281/zenodo.20185930",
+  "publisher": "Zenodo",
+  "title": "Multiscale Synchronization Hierarchy and Universal Thresholds of Systemic Tau in Modular and High-Dimensional Chaotic Systems",
+  "genre": "Preprint"
+ },
+ {
+  "type": "article",
+  "id": "PV2026Dengue",
+  "author": [
+   {
+    "family": "Padilla-Villanueva",
+    "given": "Johel"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     6,
+     12
+    ]
+   ]
+  },
+  "DOI": "10.5281/zenodo.20657723",
+  "publisher": "Zenodo",
+  "title": "Tau Sistémico y patrones ordinales multivariados para la detección temprana de brotes de dengue: evidencia en datos reales de Iquitos y San Juan",
+  "genre": "Preprint"
+ },
+ {
+  "type": "article",
+  "id": "PV2026Standard",
+  "author": [
+   {
+    "family": "Padilla-Villanueva",
+    "given": "Johel"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     7,
+     24
+    ]
+   ]
+  },
+  "DOI": "10.5281/zenodo.21537494",
+  "publisher": "Zenodo",
+  "title": "A Machine-Checkable Operational Standard for Systemic Tau τₛ and the Discrete Extramental Clock (RECD)",
+  "version": "0.1.10‑r2",
+  "genre": "Preprint"
+ },
+ {
+  "type": "article",
+  "id": "PV2026Theory",
+  "author": [
+   {
+    "family": "Padilla-Villanueva",
+    "given": "Johel"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     8,
+     2
+    ]
+   ]
+  },
+  "DOI": "10.5281/zenodo.21753560",
+  "publisher": "Zenodo",
+  "title": "Systemic Tau and Hierarchical Ordinal Conjunctions: A Relational Theory of Critical Transitions",
+  "version": "1.1.1",
+  "genre": "Preprint"
+ },
+ {
+  "type": "article",
+  "id": "PV2026Erratum",
+  "author": [
+   {
+    "family": "Padilla-Villanueva",
+    "given": "Johel"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     9,
+     25
+    ]
+   ]
+  },
+  "DOI": "10.5281/zenodo.22970130",
+  "publisher": "Zenodo",
+  "title": "Systemic Tau and Hierarchical Ordinal Conjunctions: A Relational Theory of Critical Transitions",
+  "version": "1.1.2",
+  "genre": "Preprint, version with erratum"
+ },
+ {
+  "type": "software",
+  "id": "PV2026Software",
+  "author": [
+   {
+    "family": "Padilla-Villanueva",
+    "given": "Johel"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     9,
+     20
+    ]
+   ]
+  },
+  "DOI": "10.5281/zenodo.22863378",
+  "publisher": "Zenodo",
+  "title": "Systemic Tau (Stable)",
+  "version": "v4.6.1"
+ },
+ {
+  "type": "software",
+  "id": "PV2026NestedRecd",
+  "author": [
+   {
+    "family": "Padilla-Villanueva",
+    "given": "Johel"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     9,
+     25
+    ]
+   ]
+  },
+  "DOI": "10.5281/zenodo.22970079",
+  "publisher": "Zenodo",
+  "title": "nested-recd 0.2.3: joint-tuple counting for Syn and excess3",
+  "version": "0.2.3"
+ }
+]

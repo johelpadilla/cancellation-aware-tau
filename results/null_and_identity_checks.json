@@ -1,0 +1,39 @@
+{
+  "analytic_guide_mean_over_50_reps": {
+    "sigma_perm_mean": 0.10643519947977934,
+    "inflation_mean": 1.307647868535804,
+    "ED0_perm_only": 0.08600486769219373,
+    "ED0": 0.09828277786418538,
+    "sdD0": 0.018566803880333934,
+    "Eabs_dbar0": 0.024575171947494378,
+    "kappa0": 0.7499544954626822,
+    "kappa0_homog": 0.75
+  },
+  "independent_empirical": {
+    "mean_D": 0.09810601334087024,
+    "sd_D": 0.0187192755371632,
+    "mean_abs_dbar_E": 0.02426094319690114,
+    "mean_kappa": 0.7537961335064881,
+    "median_q_D": 0.13241944175256454
+  },
+  "circular_shift_surrogate": {
+    "mean_D": 0.09848828896857363,
+    "mean_D_loo_raw": 0.09852068110527205,
+    "mean_kappa": 0.7534082612212075
+  },
+  "coupled_no_change": {
+    "mean_D": 0.09544356829044849,
+    "mean_kappa": 0.7366948412327189,
+    "median_q_D": 0.1286949320885984
+  },
+  "calibration_baselines": {
+    "mean_abs_B_E": 0.12382090696974019,
+    "mean_abs_B_E_surrogate": 0.015654002694257537,
+    "mean_tau_s_P_cal": 0.000747725289485236
+  },
+  "identity_checks": {
+    "max_abs_error_D_eq_absdbar_plus_C_and_score": 5.551115123125783e-17,
+    "max_abs_error_C_eq_minority_mass": 6.071532165918825e-17,
+    "max_excess_R_over_bound": 1.0928757898653885e-16
+  }
+}

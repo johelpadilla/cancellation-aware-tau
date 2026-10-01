@@ -1,0 +1,8 @@
+# Numerical results, figure and tests (tested with Python 3.13.5)
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2
+pytest==9.1.1
+# Document build only (build/render.sh; also needs LibreOffice with the Math module and poppler-utils)
+python-docx==1.2.0
+lxml==6.1.3

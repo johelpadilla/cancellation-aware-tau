@@ -1,0 +1,52 @@
+replicate 25/200  (4 s)
+replicate 50/200  (7 s)
+replicate 75/200  (9 s)
+replicate 100/200  (11 s)
+replicate 125/200  (13 s)
+replicate 150/200  (15 s)
+replicate 175/200  (17 s)
+replicate 200/200  (20 s)
+{
+  "analytic_guide_mean_over_50_reps": {
+    "sigma_perm_mean": 0.10643519947977934,
+    "inflation_mean": 1.307647868535804,
+    "ED0_perm_only": 0.08600486769219373,
+    "ED0": 0.09828277786418538,
+    "sdD0": 0.018566803880333934,
+    "Eabs_dbar0": 0.024575171947494378,
+    "kappa0": 0.7499544954626822,
+    "kappa0_homog": 0.75
+  },
+  "independent_empirical": {
+    "mean_D": 0.09810601334087024,
+    "sd_D": 0.0187192755371632,
+    "mean_abs_dbar_E": 0.02426094319690114,
+    "mean_kappa": 0.7537961335064881,
+    "median_q_D": 0.13241944175256454
+  },
+  "circular_shift_surrogate": {
+    "mean_D": 0.09848828896857363,
+    "mean_D_loo_raw": 0.09852068110527205,
+    "mean_kappa": 0.7534082612212075
+  },
+  "coupled_no_change": {
+    "mean_D": 0.09544356829044849,
+    "mean_kappa": 0.7366948412327189,
+    "median_q_D": 0.1286949320885984
+  },
+  "calibration_baselines": {
+    "mean_abs_B_E": 0.12382090696974019,
+    "mean_abs_B_E_surrogate": 0.015654002694257537,
+    "mean_tau_s_P_cal": 0.000747725289485236
+  },
+  "identity_checks": {
+    "max_abs_error_D_eq_absdbar_plus_C_and_score": 5.551115123125783e-17,
+    "max_abs_error_C_eq_minority_mass": 6.071532165918825e-17,
+    "max_excess_R_over_bound": 1.0928757898653885e-16
+  }
+}
+{'scenario': 'a_no_change', 'n_windows': 1000, 'dtau_s_P_mean': -0.00013123336451652205, 'dtau_s_P_sd': 0.01793606104903446, 'dbar_E_mean': 0.001492006043615567, 'dbar_E_sd': 0.03106390228926365, 'D_mean': 0.09544356829044849, 'D_sd': 0.018350792977772482, 'C_mean': 0.07034266464264055, 'C_sd': 0.02228760117260438, 'kappa_mean': 0.7366948412327189, 'kappa_sd': 0.18477045760088046, 'q_D_mean': 0.12962205733460866, 'q_D_sd': 0.007837603135184477, 'alarm_D_rate': 0.051, 'alarm_D_lo': 0.03900094277526684, 'alarm_D_hi': 0.06643548634476165, 'alarm_E_rate': 0.051, 'alarm_E_lo': 0.03900094277526684, 'alarm_E_hi': 0.06643548634476165, 'alarm_P_rate': 0.044, 'alarm_P_lo': 0.0329382145884185, 'alarm_P_hi': 0.058551789150407776, 'alarm_U_rate': 0.036, 'alarm_U_lo': 0.02611557140738732, 'alarm_U_hi': 0.049435660467207834, 'source_hit_rate': 0.49019607843137253, 'n_alarms_D': 51, 'effect_mean_abs_expected_change': 0.002719512831426853, 'gamma': 0.0}
+{'scenario': 'b_coherent_shift', 'n_windows': 1000, 'dtau_s_P_mean': 0.10642697839078873, 'dtau_s_P_sd': 0.03203707679235799, 'dbar_E_mean': 0.1037664793232722, 'dbar_E_sd': 0.03944015556985988, 'D_mean': 0.1312485126411233, 'D_sd': 0.027509932902554143, 'C_mean': 0.027480866753775295, 'C_sd': 0.02184213590773029, 'kappa_mean': 0.22781510758454196, 'kappa_sd': 0.1946328786554751, 'q_D_mean': 0.1296894454110258, 'q_D_sd': 0.007830448646464015, 'alarm_D_rate': 0.486, 'alarm_D_lo': 0.45513525566440777, 'alarm_D_hi': 0.5169718935731877, 'alarm_E_rate': 0.842, 'alarm_E_lo': 0.8180901541085861, 'alarm_E_hi': 0.8632923430872941, 'alarm_P_rate': 0.991, 'alarm_P_lo': 0.982984183834662, 'alarm_P_hi': 0.9952579393325229, 'alarm_U_rate': 0.789, 'alarm_U_lo': 0.7626295063588951, 'alarm_U_hi': 0.813158627236454, 'source_hit_rate': 0.4382716049382716, 'n_alarms_D': 486, 'effect_mean_abs_expected_change': 0.10376647932327221, 'gamma': 0.5}
+{'scenario': 'c_balanced_rewiring', 'n_windows': 1000, 'dtau_s_P_mean': -0.0005545166693047847, 'dtau_s_P_sd': 0.01817155762025203, 'dbar_E_mean': -0.0008336470087974732, 'dbar_E_sd': 0.028942362698616532, 'D_mean': 0.16716829019876406, 'D_sd': 0.022940398214969102, 'C_mean': 0.14437614950536207, 'C_sd': 0.028343311314110258, 'kappa_mean': 0.8620103804458253, 'kappa_sd': 0.10893235706898269, 'q_D_mean': 0.12976385371215043, 'q_D_sd': 0.007913786085993293, 'alarm_D_rate': 0.95, 'alarm_D_lo': 0.9346861797557492, 'alarm_D_hi': 0.9618697376072513, 'alarm_E_rate': 0.036, 'alarm_E_lo': 0.02611557140738732, 'alarm_E_hi': 0.049435660467207834, 'alarm_P_rate': 0.049, 'alarm_P_lo': 0.037261034647360615, 'alarm_P_hi': 0.06419070150661013, 'alarm_U_rate': 0.887, 'alarm_U_lo': 0.8658784472486151, 'alarm_U_hi': 0.9051596416835653, 'source_hit_rate': 0.9831578947368421, 'n_alarms_D': 950, 'effect_mean_abs_expected_change': 0.11917329504942646, 'gamma': 0.0}
+{'scenario': 'd_independent_null', 'n_windows': 1000, 'dtau_s_P_mean': -0.0004983407859109248, 'dtau_s_P_sd': 0.01794483600719299, 'dbar_E_mean': -0.0017212170808642822, 'dbar_E_sd': 0.030663786087149432, 'D_mean': 0.09810601334087024, 'D_sd': 0.0187192755371632, 'C_mean': 0.07384507014396909, 'C_sd': 0.02269389723600909, 'kappa_mean': 0.7537961335064881, 'kappa_sd': 0.18146044690718063, 'q_D_mean': 0.13269376219305845, 'q_D_sd': 0.008018513927468758, 'alarm_D_rate': 0.051, 'alarm_D_lo': 0.03900094277526684, 'alarm_D_hi': 0.06643548634476165, 'alarm_E_rate': 0.057, 'alarm_E_lo': 0.04425344035871594, 'alarm_E_hi': 0.07313706765948591, 'alarm_P_rate': 0.046, 'alarm_P_lo': 0.03466249276326498, 'alarm_P_hi': 0.06081220394161907, 'alarm_U_rate': 0.051, 'alarm_U_lo': 0.03900094277526684, 'alarm_U_hi': 0.06643548634476165, 'source_hit_rate': 0.6470588235294118, 'n_alarms_D': 51, 'effect_mean_abs_expected_change': 0.0035044517189364503, 'gamma': 0.0}
+done in 20 s

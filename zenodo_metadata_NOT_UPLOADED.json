@@ -1,0 +1,81 @@
+{
+  "_status": "NOT UPLOADED. Proposed metadata for a Zenodo deposit; requires the author's explicit approval before creating or publishing anything.",
+  "metadata": {
+    "upload_type": "publication",
+    "publication_type": "technicalnote",
+    "title": "Cancellation-aware order coherence: an exact decomposition of absolute concordance change into signed Systemic Tau and a cancellation index",
+    "creators": [
+      {
+        "name": "Padilla-Villanueva, Johel",
+        "affiliation": "Department of Environmental Health, Graduate School of Public Health, Medical Sciences Campus, University of Puerto Rico, San Juan, Puerto Rico, USA",
+        "orcid": "0000-0002-5797-6931"
+      }
+    ],
+    "description": "<p>Systemic Tau (τs), the mean pairwise Kendall concordance of module activity on a common event index, is a signed average: concordance gained on some pairs can offset concordance lost on others, so structural change can pass unseen. A cancellation-immune alarm is the mean absolute change D of pairwise concordance from its calibration baseline over a fixed edge set. Here we show that both statistics are instances of one averaging operator on the pairwise concordance matrix and that, on a common edge set, D decomposes exactly into the absolute change of the signed mean plus a non-negative cancellation term equal to twice the minority-sign mass of edge changes. The resulting index κ∈[0,1] is the fraction of total change that the signed mean cannot see. We derive bounds, invariances and the no-change behaviour of D and κ, neither of which is near zero without change, and give a conformal alarm rule with a finite-sample false-alarm guarantee. In synthetic event streams, balanced rewiring left τs at its false-alarm level while D detected it in 95.0% of windows.</p><p>Files: the note (PDF), and a code archive with the Python package, unit tests, the script that regenerates every number, Table 1 and Fig. 1, and the resulting CSV/JSON outputs. All data are synthetic.</p>",
+    "access_right": "open",
+    "license": "cc-by-4.0",
+    "language": "eng",
+    "version": "1.0.0",
+    "keywords": [
+      "Systemic Tau",
+      "Kendall tau-b",
+      "concordance",
+      "cancellation index",
+      "structural change detection",
+      "pairwise concordance matrix",
+      "conformal prediction",
+      "surrogate data",
+      "event-driven networks",
+      "ordinal time-series analysis"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.17127368",
+        "relation": "references",
+        "scheme": "doi",
+        "resource_type": "publication-preprint"
+      },
+      {
+        "identifier": "10.5281/zenodo.21753560",
+        "relation": "references",
+        "scheme": "doi",
+        "resource_type": "publication-preprint"
+      },
+      {
+        "identifier": "10.5281/zenodo.22970130",
+        "relation": "references",
+        "scheme": "doi",
+        "resource_type": "publication-preprint"
+      },
+      {
+        "identifier": "10.5281/zenodo.22863378",
+        "relation": "references",
+        "scheme": "doi",
+        "resource_type": "software"
+      }
+    ],
+    "references": [
+      "Padilla-Villanueva, J. Unveiling Systemic Tau. Zenodo https://doi.org/10.5281/zenodo.17127368 (2025).",
+      "Padilla-Villanueva, J. Systemic Tau and hierarchical ordinal conjunctions: a relational theory of critical transitions. Zenodo https://doi.org/10.5281/zenodo.21753560 (2026).",
+      "Padilla-Villanueva, J. Systemic Tau and hierarchical ordinal conjunctions (version with erratum). Zenodo https://doi.org/10.5281/zenodo.22970130 (2026).",
+      "Padilla-Villanueva, J. Systemic Tau (Stable). Zenodo https://doi.org/10.5281/zenodo.22863378 (2026).",
+      "Kendall, M. G. A new measure of rank correlation. Biometrika 30, 81-93 (1938). https://doi.org/10.1093/biomet/30.1-2.81",
+      "Kendall, M. G. The treatment of ties in ranking problems. Biometrika 33, 239-251 (1945). https://doi.org/10.1093/biomet/33.3.239"
+    ],
+    "notes": "Companion to the manuscript 'Systemic Tau as a homeostatic trigger for structural self-repair in event-driven networks' (no DOI at the time of deposit). Large language model tools (DeepSeek; Grok) assisted in exploring the formulation and in editing; the author verified all derivations and takes full responsibility."
+  },
+  "files_to_upload": [
+    "Padilla-Villanueva_cancellation-aware-tau_2026.pdf",
+    "cancellation_tau_code_v1.0.0.zip (code/ + results/, built as described in GUIA_PARA_GROK_BUILDER.md)"
+  ],
+  "pending_author_decisions": [
+    "Relation types: all four records set to 'references'. If the TRI companion receives a DOI, add it with relation 'isSupplementTo'.",
+    "Whether to deposit the DOCX as well as the PDF.",
+    "Publication date and version label (1.0.0 proposed)."
+  ],
+  "author_decisions_confirmed": [
+    "Licence: CC BY 4.0 for the note; MIT for the code (confirmed by the author 2026-09-30).",
+    "Alarm rule: D as operative alarm with optional union rule (confirmed).",
+    "Author contributions line kept (confirmed)."
+  ]
+}
